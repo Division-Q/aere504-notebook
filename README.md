@@ -1,2 +1,2 @@
 # aere504-notebook
-Acknowledgement: This repository for AERE504X at Iowa State is cloned (forked) from Prof. Mykel Kochenderfer's Stanford AA228 course with his permission.
+Acknowledgement: This repository for [AERE504X](http://www.aere.iastate.edu/~pwei/aere504x/aere504.html) taught by [Prof. Peng Wei](http://www.aere.iastate.edu/~pwei/) at Iowa State is cloned (forked) from [Prof. Mykel Kochenderfer](http://mykel.kochenderfer.com/)'s [Stanford AA228](http://web.stanford.edu/class/aa228/) course with his permission. The original github repository is https://github.com/sisl/aa228-notebook
